@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Messaoud97.github.io/precache-manifest.1e48eaa44e4bd6da5cad9a5335f0998e.js"
+  "/paylis/precache-manifest.0063cc590d223eeb384ce507653d7e96.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Messaoud97.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/paylis/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
