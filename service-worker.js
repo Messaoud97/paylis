@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/paylis/precache-manifest.0063cc590d223eeb384ce507653d7e96.js"
+  "/paylis/precache-manifest.f6bb6b721b9e70d47c6627803dfc9bf6.js"
 );
 
 workbox.clientsClaim();
